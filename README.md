@@ -1,0 +1,1 @@
+Kode di atas adalah contoh program sederhana dalam bahasa pemrograman Java yang mengikuti prinsip Single Responsibility Principle (SRP). Program ini digunakan untuk mengelola data karyawan, mencetak detail karyawan, dan menghitung gaji tahunan karyawan.
